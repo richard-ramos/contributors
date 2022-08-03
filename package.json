@@ -1,0 +1,16 @@
+{
+  "name": "contributors",
+  "version": "0.0.1",
+  "description": "List contributors for an organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Richard Ramos <info@richardramos.me>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
